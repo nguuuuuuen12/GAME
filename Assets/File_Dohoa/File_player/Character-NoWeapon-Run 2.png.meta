@@ -1,22 +1,31 @@
 fileFormatVersion: 2
-guid: 2da6d287e77851948ad4f3f78a98a34c
+guid: bb28e05474192f1499ad3ab6cb22969e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3580043104253169670
-    second: Character-NoWeapon-dash-1_0
+      213: -6652276606114034193
+    second: Character-NoWeapon-Run_0
   - first:
-      213: 7666232052527134679
-    second: Character-NoWeapon-dash-1_1
+      213: 1197184691684423448
+    second: Character-NoWeapon-Run_1
   - first:
-      213: -5161869389315738736
-    second: Character-NoWeapon-dash-1_2
+      213: 9204452866264695858
+    second: Character-NoWeapon-Run_2
   - first:
-      213: 7679910893063474048
-    second: Character-NoWeapon-dash-1_3
+      213: -5393540757238379949
+    second: Character-NoWeapon-Run_3
   - first:
-      213: 6936626776425352400
-    second: Character-NoWeapon-dash-1_4
+      213: -6621210632501377717
+    second: Character-NoWeapon-Run_4
+  - first:
+      213: 8836787674426986753
+    second: Character-NoWeapon-Run_5
+  - first:
+      213: 7129487662691765419
+    second: Character-NoWeapon-Run_6
+  - first:
+      213: -5950718612996127141
+    second: Character-NoWeapon-Run_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character-NoWeapon-dash-1_0
+      name: Character-NoWeapon-Run_0
       rect:
         serializedVersion: 2
-        x: 33
+        x: 38
         y: 0
-        width: 38
-        height: 32
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600d8954c3edea130800000000000000
-      internalID: 3580043104253169670
+      spriteID: fed8ee80cad5ea3a0800000000000000
+      internalID: -6652276606114034193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-dash-1_1
+      name: Character-NoWeapon-Run_1
       rect:
         serializedVersion: 2
         x: 130
-        y: 0
-        width: 38
-        height: 32
+        y: 4
+        width: 28
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f6e9d844e6d98a49817aeec9ad5f7f8
-      internalID: 106305206
+      spriteID: 78985d59316abe34d87922b06b6a1f6f
+      internalID: 1430722519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-dash-1_2
+      name: Character-NoWeapon-Run_2
       rect:
         serializedVersion: 2
-        x: 224
+        x: 227
         y: 0
-        width: 37
-        height: 32
+        width: 25
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce694a3748e3644409e0117e14423a34
-      internalID: -461252695
+      spriteID: 14ebf104a84ec9b4ca5b4719fe896bac
+      internalID: 1623883812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-dash-1_3
+      name: Character-NoWeapon-Run_3
       rect:
         serializedVersion: 2
-        x: 327
+        x: 326
         y: 0
-        width: 21
-        height: 34
+        width: 24
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a2a2b20693998146a55bad7ac03cfba
-      internalID: -883194937
+      spriteID: 72a7f90b80cac13469f4cffbda449e3b
+      internalID: -758524192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-dash-1_4
+      name: Character-NoWeapon-Run_4
       rect:
         serializedVersion: 2
-        x: 424
+        x: 422
         y: 0
-        width: 18
-        height: 37
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,8 +237,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78b66d17442f35b409d5b8a042c9f0d9
-      internalID: -2072929789
+      spriteID: 636107f0cabbfa84a861a25bb1f920c2
+      internalID: 21921019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672f0e6ea24efb4ba6a9358465d1c08
+      internalID: 822782614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c7874f0ad3974ea01bf2760528d3f
+      internalID: 1965832855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6a288e0cbfb14386a2a97f06fb920
+      internalID: 2058035088
       vertices: []
       indices: 
       edges: []
@@ -238,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 75390565fa83f7d439ff1f9977bec8e7
+    spriteID: 6d227b7cb39c0c249b0b516f1b1259bf
     internalID: 0
     vertices: []
     indices: 
@@ -248,11 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Character-NoWeapon-dash-1_0: 3580043104253169670
-      Character-NoWeapon-dash-1_1: 106305206
-      Character-NoWeapon-dash-1_2: -461252695
-      Character-NoWeapon-dash-1_3: -883194937
-      Character-NoWeapon-dash-1_4: -2072929789
+      Character-NoWeapon-Run_0: -6652276606114034193
+      Character-NoWeapon-Run_1: 1430722519
+      Character-NoWeapon-Run_2: 1623883812
+      Character-NoWeapon-Run_3: -758524192
+      Character-NoWeapon-Run_4: 21921019
+      Character-NoWeapon-Run_5: 822782614
+      Character-NoWeapon-Run_6: 1965832855
+      Character-NoWeapon-Run_7: 2058035088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

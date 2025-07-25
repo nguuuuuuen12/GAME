@@ -137,10 +137,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 41
         y: 0
-        width: 768
-        height: 64
+        width: 15
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,6 +151,160 @@ TextureImporter:
       bones: []
       spriteID: e4e7b8894f93e7350800000000000000
       internalID: 6016309874907643470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add93ef4a5942104e9fd6bebede4c050
+      internalID: -814907552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d98be7067e9164ba5b44604a506c63
+      internalID: -1218878532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83ebc095e3fc34182d7d495cba9b28
+      internalID: 1042305585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a43c9d8989f9f4a9ce47ab80b42063
+      internalID: -1474797401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fcd7adc72a12b4d9031b64707a5651
+      internalID: -936936956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54212c0e25271419f21063c8045d0d
+      internalID: -1704514815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d9edb5210fac44b760ccb55933f2b
+      internalID: 924852735
       vertices: []
       indices: 
       edges: []
@@ -170,6 +324,13 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Idle_0: 6016309874907643470
+      Character-NoWeapon-Idle_1: -814907552
+      Character-NoWeapon-Idle_2: -1218878532
+      Character-NoWeapon-Idle_3: 1042305585
+      Character-NoWeapon-Idle_4: -1474797401
+      Character-NoWeapon-Idle_5: -936936956
+      Character-NoWeapon-Idle_6: -1704514815
+      Character-NoWeapon-Idle_7: 924852735
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -137,10 +137,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 38
         y: 0
-        width: 768
-        height: 64
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,6 +151,160 @@ TextureImporter:
       bones: []
       spriteID: fed8ee80cad5ea3a0800000000000000
       internalID: -6652276606114034193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78985d59316abe34d87922b06b6a1f6f
+      internalID: 1430722519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebf104a84ec9b4ca5b4719fe896bac
+      internalID: 1623883812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7f90b80cac13469f4cffbda449e3b
+      internalID: -758524192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636107f0cabbfa84a861a25bb1f920c2
+      internalID: 21921019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672f0e6ea24efb4ba6a9358465d1c08
+      internalID: 822782614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c7874f0ad3974ea01bf2760528d3f
+      internalID: 1965832855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Run_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6a288e0cbfb14386a2a97f06fb920
+      internalID: 2058035088
       vertices: []
       indices: 
       edges: []
@@ -170,6 +324,13 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Run_0: -6652276606114034193
+      Character-NoWeapon-Run_1: 1430722519
+      Character-NoWeapon-Run_2: 1623883812
+      Character-NoWeapon-Run_3: -758524192
+      Character-NoWeapon-Run_4: 21921019
+      Character-NoWeapon-Run_5: 822782614
+      Character-NoWeapon-Run_6: 1965832855
+      Character-NoWeapon-Run_7: 2058035088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

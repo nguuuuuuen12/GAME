@@ -167,10 +167,10 @@ TextureImporter:
       name: Character-NoWeapon-Die_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 34
         y: 0
-        width: 1728
-        height: 64
+        width: 20
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,6 +181,380 @@ TextureImporter:
       bones: []
       spriteID: a6f0ef36dbfc47b50800000000000000
       internalID: 6590120567083241322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d07a1530a83d5479bee8a51c3e2b9f
+      internalID: 2072408327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e70cdfdf84032d489210840eaf34470
+      internalID: 983276066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f44c4dd9a0891449ba200010ef4fca
+      internalID: -945667351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a45511c5aae3349a4b95292cf922de
+      internalID: -757518954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092cd49ad11181f48a361f5b1abc629e
+      internalID: -1125851924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7234a035933e74896477a20bc74d5e
+      internalID: 1286337846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ece59f4bef1ec479e66c2aac1c802a
+      internalID: 2131751702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d731f2b1e40d644bfd9f2f2a98df53
+      internalID: 896289765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066e2dad62b9a08449d4281781207327
+      internalID: -100934198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530893aca234fec4eaadd09068c33883
+      internalID: -2100369477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c819d155d5e14283ceb0e3f7030ff
+      internalID: -1505474054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_12
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe01d84d0041e4881b166d5d724e24
+      internalID: -1657320012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 44
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41fb950be3a30e4892c43d1541f4791
+      internalID: -2089777550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_14
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542349bb2e39e847bb2db52385ebcfb
+      internalID: -258033779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc5f8c3e681b743977b50711d6b8f3
+      internalID: 1814639066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_16
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 0
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36652c464afc5429e320b3ad619f1b
+      internalID: -180366801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Die_17
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38823fe4432315d4b82b11d1e9d3bf9d
+      internalID: 1445323602
       vertices: []
       indices: 
       edges: []
@@ -200,6 +574,23 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Die_0: 6590120567083241322
+      Character-NoWeapon-Die_1: 2072408327
+      Character-NoWeapon-Die_10: -2100369477
+      Character-NoWeapon-Die_11: -1505474054
+      Character-NoWeapon-Die_12: -1657320012
+      Character-NoWeapon-Die_13: -2089777550
+      Character-NoWeapon-Die_14: -258033779
+      Character-NoWeapon-Die_15: 1814639066
+      Character-NoWeapon-Die_16: -180366801
+      Character-NoWeapon-Die_17: 1445323602
+      Character-NoWeapon-Die_2: 983276066
+      Character-NoWeapon-Die_3: -945667351
+      Character-NoWeapon-Die_4: -757518954
+      Character-NoWeapon-Die_5: -1125851924
+      Character-NoWeapon-Die_6: 1286337846
+      Character-NoWeapon-Die_7: 2131751702
+      Character-NoWeapon-Die_8: 896289765
+      Character-NoWeapon-Die_9: -100934198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
