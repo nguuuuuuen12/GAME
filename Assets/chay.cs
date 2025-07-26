@@ -49,25 +49,16 @@ public class chay : MonoBehaviour
         }
         else
         {
-            animator.SetBool("isplayerrun", false);
+            animator.SetBool("isplayerrun",false);
         }
         if (Input.GetButtonDown("Jump") && isgrounded())
         {
-            
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
         }
-        if (Input.GetButtonDown("Jump"))
-        {
-            animator.SetBool("isplayerjump", true);
-        }
-        else if (isgrounded())
-        {
-            animator.SetBool("isplayerjump", false);
-        }
         if (Input.GetButtonDown("Jump") && rb.linearVelocity.y > 0f)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-            }
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+        }
         flip();
         //dash
         if (Input.GetKeyDown(KeyCode.LeftShift) && canDash)
@@ -76,6 +67,7 @@ public class chay : MonoBehaviour
         }
         
     }
+    /// </summary>
     private void FixedUpdate()
     {
         if (isdashing)
@@ -94,7 +86,7 @@ public class chay : MonoBehaviour
             transform.localScale = localscale;
         }
     }
-    private bool isgrounded()
+    public bool isgrounded()
     {
         return Physics2D.OverlapCircle(groundcheck.position, 0.2f, groundLayer);
     }
@@ -102,10 +94,12 @@ public class chay : MonoBehaviour
     {
         canDash = false;
         isdashing = true;
+        animator.SetBool("playerroll", true);
         float origianlgravity = rb.gravityScale;
         rb.gravityScale = 0f;
         rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
         yield return new WaitForSeconds(dashingtime);
+        animator.SetBool("playerroll", false);
         isdashing = false;
         yield return new WaitForSeconds(dashingcooldown);
         canDash = true;
