@@ -1,40 +1,31 @@
 fileFormatVersion: 2
-guid: 55f34abcc1655e04cb2f52c2a7cf5973
+guid: 63f52ea5aeb0f7e47bf5500872d8b5b4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4028196955376980334
-    second: Character-NoWeapon-Rolling_0
+      213: -3611057923587517678
+    second: Character-NoWeapon-Rolling-No-Up_0
   - first:
-      213: -646698196959448805
-    second: Character-NoWeapon-Rolling_1
+      213: 3958783545529602200
+    second: Character-NoWeapon-Rolling-No-Up_1
   - first:
-      213: 6413464075486207632
-    second: Character-NoWeapon-Rolling_2
+      213: 8262831157665998237
+    second: Character-NoWeapon-Rolling-No-Up_2
   - first:
-      213: -6256314420555968531
-    second: Character-NoWeapon-Rolling_3
+      213: 6786606722731200532
+    second: Character-NoWeapon-Rolling-No-Up_3
   - first:
-      213: -5119405202492990124
-    second: Character-NoWeapon-Rolling_4
+      213: 910117388244456489
+    second: Character-NoWeapon-Rolling-No-Up_4
   - first:
-      213: -4603986536164971099
-    second: Character-NoWeapon-Rolling_5
+      213: -8838152233050114850
+    second: Character-NoWeapon-Rolling-No-Up_5
   - first:
-      213: 8025364673374607441
-    second: Character-NoWeapon-Rolling_6
+      213: 2486313502478912988
+    second: Character-NoWeapon-Rolling-No-Up_6
   - first:
-      213: -8347963684568305462
-    second: Character-NoWeapon-Rolling_7
-  - first:
-      213: -8783965862320829625
-    second: Character-NoWeapon-Rolling_8
-  - first:
-      213: 4255803614055377354
-    second: Character-NoWeapon-Rolling_9
-  - first:
-      213: -1190142259960939902
-    second: Character-NoWeapon-Rolling_10
+      213: 6851014790394292230
+    second: Character-NoWeapon-Rolling-No-Up_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -143,32 +134,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_0
+      name: Character-NoWeapon-Rolling-No-Up_0
       rect:
         serializedVersion: 2
         x: 41
-        y: 0
-        width: 16
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e611e82e9c707e730800000000000000
-      internalID: 4028196955376980334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_1
-      rect:
-        serializedVersion: 2
-        x: 137
         y: 0
         width: 18
         height: 30
@@ -178,43 +147,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ee020278b79cc0440ad2bead792414cf
-      internalID: -1043439486
+      spriteID: 213d43163f1f2edc0800000000000000
+      internalID: -3611057923587517678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_2
+      name: Character-NoWeapon-Rolling-No-Up_1
       rect:
         serializedVersion: 2
-        x: 226
-        y: 3
-        width: 37
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86634e8ed2e5bd242b35b7bcc9e2e7cf
-      internalID: 1976132075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_3
-      rect:
-        serializedVersion: 2
-        x: 311
-        y: 14
-        width: 49
+        x: 130
+        y: 0
+        width: 32
         height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -224,42 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d74690011a00a043bc6918fe1652a4b
-      internalID: -1123613008
+      spriteID: 5b2ce7a8f316d284ab432f6d81877aa1
+      internalID: 1356360708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_4
+      name: Character-NoWeapon-Rolling-No-Up_2
       rect:
         serializedVersion: 2
-        x: 408
-        y: 5
-        width: 41
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1adb9610188ff4e8c3d5538bad436f
-      internalID: 288105040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_5
-      rect:
-        serializedVersion: 2
-        x: 517
+        x: 235
         y: 0
-        width: 28
-        height: 26
+        width: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,17 +193,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61c5b4bb0dd62bd48adc1a9692cf0527
-      internalID: 1273813871
+      spriteID: cb5df34d8d4dc344f842679bbd7c5ec3
+      internalID: 968937236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_6
+      name: Character-NoWeapon-Rolling-No-Up_3
       rect:
         serializedVersion: 2
-        x: 621
+        x: 333
         y: 0
         width: 21
         height: 16
@@ -290,83 +215,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3edfc0ddb8be2a2499f93f9716db785c
-      internalID: 41748256
+      spriteID: 2792c2aced6763540bcd332684f6d98c
+      internalID: 1186502252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_7
+      name: Character-NoWeapon-Rolling-No-Up_4
       rect:
         serializedVersion: 2
-        x: 805
-        y: 0
-        width: 24
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc483788b284f704ba9fb88ece14b26a
-      internalID: 982304588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_8
-      rect:
-        serializedVersion: 2
-        x: 903
-        y: 0
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 752cfaf626e28454e816e6fe05c8ac2c
-      internalID: -1445513105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_9
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 0
-        width: 16
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ca5d62b11889c0458724edc7e7cad5e
-      internalID: -1100970052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character-NoWeapon-Rolling_10
-      rect:
-        serializedVersion: 2
-        x: 709
+        x: 421
         y: 0
         width: 25
         height: 13
@@ -378,8 +237,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 342d216694ffc1a4ead97f7963095e3e
-      internalID: 1875505198
+      spriteID: 8c8f2c932a468a14aa5ed4a10221d714
+      internalID: 153317288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a7edca898db74caaa5f23da1b4f71
+      internalID: 1845544991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d8840a94d56647958f0802d05944b
+      internalID: 1491843544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9eb1578b3edc44da34135a85361d40
+      internalID: 893349788
       vertices: []
       indices: 
       edges: []
@@ -388,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e1b99d6859019a44f96be2b95464955a
+    spriteID: 56db3920c790ba54cb703f4ebb0e7654
     internalID: 0
     vertices: []
     indices: 
@@ -398,17 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Character-NoWeapon-Rolling_0: 4028196955376980334
-      Character-NoWeapon-Rolling_1: -1043439486
-      Character-NoWeapon-Rolling_10: 1875505198
-      Character-NoWeapon-Rolling_2: 1976132075
-      Character-NoWeapon-Rolling_3: -1123613008
-      Character-NoWeapon-Rolling_4: 288105040
-      Character-NoWeapon-Rolling_5: 1273813871
-      Character-NoWeapon-Rolling_6: 41748256
-      Character-NoWeapon-Rolling_7: 982304588
-      Character-NoWeapon-Rolling_8: -1445513105
-      Character-NoWeapon-Rolling_9: -1100970052
+      Character-NoWeapon-Rolling-No-Up_0: -3611057923587517678
+      Character-NoWeapon-Rolling-No-Up_1: 1356360708
+      Character-NoWeapon-Rolling-No-Up_2: 968937236
+      Character-NoWeapon-Rolling-No-Up_3: 1186502252
+      Character-NoWeapon-Rolling-No-Up_4: 153317288
+      Character-NoWeapon-Rolling-No-Up_5: 1845544991
+      Character-NoWeapon-Rolling-No-Up_6: 1491843544
+      Character-NoWeapon-Rolling-No-Up_7: 893349788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

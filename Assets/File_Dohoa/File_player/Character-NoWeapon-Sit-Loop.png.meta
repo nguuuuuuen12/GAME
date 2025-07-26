@@ -128,10 +128,10 @@ TextureImporter:
       name: Character-NoWeapon-Sit-Loop_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 38
         y: 0
-        width: 480
-        height: 64
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,6 +142,94 @@ TextureImporter:
       bones: []
       spriteID: 5ffe97c24e929d3c0800000000000000
       internalID: -4334387106391920651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sit-Loop_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa00e54e08d7294db6fa1555e330f48
+      internalID: -1667663691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sit-Loop_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4a0f113522874f8943a718e3c7613
+      internalID: 284073478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sit-Loop_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b649fd3d151254fac61c5b3d2c7505
+      internalID: 1033107507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sit-Loop_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d19fffb5221141b73176361dfd6bd
+      internalID: -1861407964
       vertices: []
       indices: 
       edges: []
@@ -161,6 +249,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Sit-Loop_0: -4334387106391920651
+      Character-NoWeapon-Sit-Loop_1: -1667663691
+      Character-NoWeapon-Sit-Loop_2: 284073478
+      Character-NoWeapon-Sit-Loop_3: 1033107507
+      Character-NoWeapon-Sit-Loop_4: -1861407964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

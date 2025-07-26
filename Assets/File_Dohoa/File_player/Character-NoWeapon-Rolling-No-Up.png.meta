@@ -137,10 +137,10 @@ TextureImporter:
       name: Character-NoWeapon-Rolling-No-Up_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 41
         y: 0
-        width: 768
-        height: 64
+        width: 18
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,6 +151,160 @@ TextureImporter:
       bones: []
       spriteID: 213d43163f1f2edc0800000000000000
       internalID: -3611057923587517678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ce7a8f316d284ab432f6d81877aa1
+      internalID: 1356360708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5df34d8d4dc344f842679bbd7c5ec3
+      internalID: 968937236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2792c2aced6763540bcd332684f6d98c
+      internalID: 1186502252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f2c932a468a14aa5ed4a10221d714
+      internalID: 153317288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a7edca898db74caaa5f23da1b4f71
+      internalID: 1845544991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d8840a94d56647958f0802d05944b
+      internalID: 1491843544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Rolling-No-Up_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9eb1578b3edc44da34135a85361d40
+      internalID: 893349788
       vertices: []
       indices: 
       edges: []
@@ -170,6 +324,13 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Rolling-No-Up_0: -3611057923587517678
+      Character-NoWeapon-Rolling-No-Up_1: 1356360708
+      Character-NoWeapon-Rolling-No-Up_2: 968937236
+      Character-NoWeapon-Rolling-No-Up_3: 1186502252
+      Character-NoWeapon-Rolling-No-Up_4: 153317288
+      Character-NoWeapon-Rolling-No-Up_5: 1845544991
+      Character-NoWeapon-Rolling-No-Up_6: 1491843544
+      Character-NoWeapon-Rolling-No-Up_7: 893349788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

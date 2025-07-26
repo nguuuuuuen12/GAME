@@ -149,10 +149,10 @@ TextureImporter:
       name: Character-NoWeapon-Sitting_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 41
         y: 0
-        width: 1152
-        height: 64
+        width: 15
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,6 +163,248 @@ TextureImporter:
       bones: []
       spriteID: a66ec0824f77ce7e0800000000000000
       internalID: -1734879865916823958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eac57ab1b3e9744ba958fa83d6cb99
+      internalID: 1052263883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f4af4539cb05e4d97b7604fbba7a7d
+      internalID: 2011028442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3973a63f20986ee4493537d96f615ac4
+      internalID: -1447302313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2019972ffd4b44948a220281168d6
+      internalID: -1803508884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07c67795e7a014bb354e73ed685759
+      internalID: -1526410064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5818463321779fa44a8452e85a0578f8
+      internalID: -1838263854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaecf9c34bf68a409402434d4bc70c1
+      internalID: -395518982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819fb6cdf0e29f46903a2c31bfd2977
+      internalID: 33297076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75904a1508530345a0fc5a1c8076734
+      internalID: 995900647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_10
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 0
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764124c638a58f438decb82087820b9
+      internalID: 1317419518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Sitting_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830e229f61627d47a2786f12db2bb23
+      internalID: 549030729
       vertices: []
       indices: 
       edges: []
@@ -182,6 +424,17 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Sitting_0: -1734879865916823958
+      Character-NoWeapon-Sitting_1: 1052263883
+      Character-NoWeapon-Sitting_10: 1317419518
+      Character-NoWeapon-Sitting_11: 549030729
+      Character-NoWeapon-Sitting_2: 2011028442
+      Character-NoWeapon-Sitting_3: -1447302313
+      Character-NoWeapon-Sitting_4: -1803508884
+      Character-NoWeapon-Sitting_5: -1526410064
+      Character-NoWeapon-Sitting_6: -1838263854
+      Character-NoWeapon-Sitting_7: -395518982
+      Character-NoWeapon-Sitting_8: 33297076
+      Character-NoWeapon-Sitting_9: 995900647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

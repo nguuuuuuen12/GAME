@@ -131,10 +131,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 41
         y: 0
-        width: 576
-        height: 64
+        width: 16
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,6 +145,116 @@ TextureImporter:
       bones: []
       spriteID: d98d725d1eca6c790800000000000000
       internalID: -7510125242649945955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Jump_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674f560db6348d4d83e3b5d13d70f35
+      internalID: -1043817589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Jump_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84662b4ac12cb0459fbc0d22b17454c
+      internalID: 840875574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Jump_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d452f443b2e9a41a2db7c935287f53
+      internalID: 937316371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Jump_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7345522533c54c8c027e53afe4dc3
+      internalID: 580615231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-NoWeapon-Jump_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18ccdc8b43b9c48806816bc860ade3
+      internalID: 535942772
       vertices: []
       indices: 
       edges: []
@@ -164,6 +274,11 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Character-NoWeapon-Jump_0: -7510125242649945955
+      Character-NoWeapon-Jump_1: -1043817589
+      Character-NoWeapon-Jump_2: 840875574
+      Character-NoWeapon-Jump_3: 937316371
+      Character-NoWeapon-Jump_4: 580615231
+      Character-NoWeapon-Jump_5: 535942772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
