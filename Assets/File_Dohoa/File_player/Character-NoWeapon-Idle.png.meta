@@ -74,7 +74,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -137,10 +137,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 0
         y: 0
-        width: 15
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_1
       rect:
         serializedVersion: 2
-        x: 137
+        x: 95
         y: 0
-        width: 15
-        height: 41
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_2
       rect:
         serializedVersion: 2
-        x: 233
+        x: 190
         y: 0
-        width: 15
-        height: 40
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_3
       rect:
         serializedVersion: 2
-        x: 329
+        x: 285
         y: 0
-        width: 15
-        height: 40
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_4
       rect:
         serializedVersion: 2
-        x: 425
+        x: 380
         y: 0
-        width: 15
-        height: 41
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_5
       rect:
         serializedVersion: 2
-        x: 521
+        x: 475
         y: 0
-        width: 15
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_6
       rect:
         serializedVersion: 2
-        x: 617
+        x: 570
         y: 0
-        width: 15
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Character-NoWeapon-Idle_7
       rect:
         serializedVersion: 2
-        x: 713
+        x: 665
         y: 0
-        width: 15
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

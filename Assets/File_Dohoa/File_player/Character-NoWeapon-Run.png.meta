@@ -137,10 +137,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_0
       rect:
         serializedVersion: 2
-        x: 38
+        x: 0
         y: 0
-        width: 25
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 4
-        width: 28
-        height: 41
+        x: 95
+        y: 0
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_2
       rect:
         serializedVersion: 2
-        x: 227
+        x: 190
         y: 0
-        width: 25
-        height: 43
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_3
       rect:
         serializedVersion: 2
-        x: 326
+        x: 285
         y: 0
-        width: 24
-        height: 41
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_4
       rect:
         serializedVersion: 2
-        x: 422
+        x: 380
         y: 0
-        width: 25
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_5
       rect:
         serializedVersion: 2
-        x: 514
-        y: 4
-        width: 29
-        height: 41
+        x: 475
+        y: 0
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_6
       rect:
         serializedVersion: 2
-        x: 611
+        x: 570
         y: 0
-        width: 25
-        height: 43
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Character-NoWeapon-Run_7
       rect:
         serializedVersion: 2
-        x: 710
+        x: 665
         y: 0
-        width: 23
-        height: 41
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

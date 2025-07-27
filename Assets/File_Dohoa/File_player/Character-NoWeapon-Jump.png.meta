@@ -131,10 +131,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 0
         y: 0
-        width: 16
-        height: 36
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_1
       rect:
         serializedVersion: 2
-        x: 135
+        x: 95
         y: 0
-        width: 20
-        height: 48
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_2
       rect:
         serializedVersion: 2
-        x: 229
+        x: 190
         y: 0
-        width: 27
-        height: 42
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_3
       rect:
         serializedVersion: 2
-        x: 321
+        x: 285
         y: 0
-        width: 32
-        height: 40
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_4
       rect:
         serializedVersion: 2
-        x: 416
+        x: 380
         y: 0
-        width: 33
-        height: 40
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: Character-NoWeapon-Jump_5
       rect:
         serializedVersion: 2
-        x: 513
+        x: 475
         y: 0
-        width: 29
-        height: 41
+        width: 95
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
