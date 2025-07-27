@@ -7,7 +7,7 @@ using System.Net;
 public class chay : MonoBehaviour
 {
     [SerializeField] private float movespeed = 5f;//tốc độ chạy
-    private float jumpPower = 10f;//sức nhảy
+    private float jumpPower = 25f;//sức nhảy
     [SerializeField] private bool isfacingright  = true;//kt
     [SerializeField] private Transform groundcheck;//check có chạm đất
     
@@ -64,10 +64,10 @@ public class chay : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
         }
-        //if (Input.GetButtonDown("Jump") && rb.linearVelocity.y > 0f)
-        //{
-       //     rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-        //}
+        if (Input.GetButtonDown("Jump") && rb.linearVelocity.y > 0f)
+        {
+           rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+        }
         flip();
         //dash
         if (Input.GetKeyDown(KeyCode.LeftShift) && canDash)
@@ -108,6 +108,7 @@ public class chay : MonoBehaviour
         rb.gravityScale = 0f;
         rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
         yield return new WaitForSeconds(dashingtime);
+        rb.gravityScale = origianlgravity;
         isdashing = false;
         animator.SetBool("playerroll",false);
         yield return new WaitForSeconds(dashingcooldown);
