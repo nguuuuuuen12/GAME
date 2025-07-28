@@ -6,7 +6,7 @@ using System.Net;
 
 public class chay : MonoBehaviour
 {
-    [SerializeField] private float movespeed = 5f;//tốc độ chạy
+    [SerializeField] private float movespeed = 10f;//tốc độ chạy
     private float jumpPower = 25f;//sức nhảy
     [SerializeField] private bool isfacingright  = true;//kt
     [SerializeField] private Transform groundcheck;//check có chạm đất
@@ -14,6 +14,7 @@ public class chay : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;//mặt đất
 
     private float Horizontal;
+    private float Vertical;
     private bool ground = true;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
@@ -44,29 +45,14 @@ public class chay : MonoBehaviour
             return;
         }
         Horizontal = Input.GetAxisRaw("Horizontal");
-        if (Horizontal != 0)
+        Vertical = Input.GetAxisRaw("Vertical");
+        if (Horizontal != 0 || Vertical!=0)
         {
             animator.SetBool("isplayerrun", true);
         }
         else
         {
-            animator.SetBool("isplayerrun",false);
-        }
-        if (isgrounded())
-        {
-            animator.SetBool("isplayerjump", false);
-        }
-        else
-        {
-            animator.SetBool("isplayerjump", true);
-        }
-        if (Input.GetButtonDown("Jump") && isgrounded())
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
-        }
-        if (Input.GetButtonDown("Jump") && rb.linearVelocity.y > 0f)
-        {
-           rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            animator.SetBool("isplayerrun", false);
         }
         flip();
         //dash
@@ -83,7 +69,7 @@ public class chay : MonoBehaviour
         {
             return;
         }
-        rb.linearVelocity = new Vector2(Horizontal * movespeed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(Horizontal, Vertical);
     }
     private void flip()
     {
@@ -94,10 +80,6 @@ public class chay : MonoBehaviour
             localscale.x *= -1f;
             transform.localScale = localscale;
         }
-    }
-    public bool isgrounded()
-    {
-        return Physics2D.OverlapCircle(groundcheck.position, 0.2f, groundLayer);
     }
     private IEnumerator Dash()
     {
