@@ -101,17 +101,21 @@ public class chay : MonoBehaviour
     }
     private IEnumerator Dash()
     {
-        canDash = false;
-        isdashing = true;
-        animator.SetBool("playerroll", true);
-        float origianlgravity = rb.gravityScale;
-        rb.gravityScale = 0f;
-        rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
-        yield return new WaitForSeconds(dashingtime);
-        rb.gravityScale = origianlgravity;
-        isdashing = false;
-        animator.SetBool("playerroll",false);
-        yield return new WaitForSeconds(dashingcooldown);
-        canDash = true;
+        
+        if (Horizontal != 0)
+        {
+            canDash = false;
+            isdashing = true;
+            animator.SetBool("playerroll", true);
+            float origianlgravity = rb.gravityScale;
+            rb.gravityScale = 0f;
+            rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
+            yield return new WaitForSeconds(dashingtime);
+            rb.gravityScale = origianlgravity;
+            isdashing = false;
+            animator.SetBool("playerroll", false);
+            yield return new WaitForSeconds(dashingcooldown);
+            canDash = true;
+        }
     }
 }
